@@ -3,4 +3,4 @@ template: about-page
 slug: /about
 title: About Kohaluka
 ---
-Thank you!
+https://minne.com/@itach1
