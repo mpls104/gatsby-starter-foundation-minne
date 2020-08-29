@@ -8,6 +8,7 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-kohaluka
+編み物、レジンアクセサリー、消しゴムハンコ、粘土アクセサリーなどを作成しています。
 
 https://minne.com/@itach1
+

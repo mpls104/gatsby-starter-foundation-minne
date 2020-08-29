@@ -132,6 +132,8 @@
 	}
 	.featured-image {
 		border-radius: 12px;
+		margin-right: auto;
+		margin-left: auto;
 	}
 	@media (max-width: $breakpoint-md) {
 		padding-top: 30px;
