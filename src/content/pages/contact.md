@@ -1,6 +1,6 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Contact
 ---
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/micomi12)
+以下のフォームからメッセージを送信するか、TwitterのDMでお問い合わせください。 [Twitter](https://twitter.com/micomi12)
