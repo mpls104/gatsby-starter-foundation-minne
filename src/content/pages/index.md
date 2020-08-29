@@ -9,3 +9,5 @@ cta:
   ctaLink: /about
 ---
 kohaluka
+
+https://minne.com/@itach1
