@@ -2,9 +2,9 @@
   "meta": {
     "title": "kohaluka",
     "titleTemplate": "%s",
-    "description": "A blog for introducing handmade crafts, Built with Gatsby and Netlify CMS.",
+    "description": "A blog for introducing handmade crafts personal brand, kohaluka",
     "siteUrl": "https://kohaluka.info/",
-    "image": "/assets/stackrole.png",
+    "image": "/assets/koh7.jpeg",
     "twitterUsername": "@micomi13"
   },
   "ga": "UA-176806908-1"
