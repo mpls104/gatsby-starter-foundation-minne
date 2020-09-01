@@ -1,27 +1,25 @@
 ---
 template: about-page
 slug: /about
-title: About Kohaluka
+title: kohalukaについて
 ---
-kohalukaというグループ名でハンドメイド作品の作成・販売をしています。
+kohaluka(コハルカ)というグループ名でハンドメイドアクセサリーの作成・販売をしています。
 
-#### 作品
+今まで作成した作品はこちらから閲覧ください。
 
-https://minne.com/@itach1
+[minne](https://minne.com/@itach1)
+
+[instagram](https://www.instagram.com/kohaluka_handmade/?hl=en)
 
 #### 名前の由来
 
 メンバーの愛犬と愛猫の名前が由来です。
 
-
-
 #### 宣伝
 
-愛犬・琥珀の動画をyoutubeにあげています。
+愛犬・豆柴の琥珀の動画をyoutubeにあげています。
 
-<https://www.youtube.com/playlist?list=PLe-AgpbiKXf6lrT5ImBMSlzMwi74iV_ex>
-
-
+[Youtube](https://www.youtube.com/playlist?list=PLe-AgpbiKXf6lrT5ImBMSlzMwi74iV_ex)
 
 #### プライバシーポリシー
 
